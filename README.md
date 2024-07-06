@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mainakdasnits/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tech-hunter-mainak/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://github.com/tech-hunter-mainak/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://mainak-das-portfolio.netlify.app/)
 
 I am currently studying Computer Science and Engineering at National Institute of Technology Silchar. Passionate about Backend Development, Artificial Intelligence, Machine Learning, and Deep Learning, I love to explore and work on innovative projects.
 
