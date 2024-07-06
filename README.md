@@ -47,6 +47,8 @@ I am currently studying Computer Science and Engineering at National Institute o
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Mainak's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-hunter-mainak&show_icons=true&theme=radical)
@@ -64,6 +66,9 @@ I am currently studying Computer Science and Engineering at National Institute o
 - Certificate of completion of PHP Course (GUVI Geek Networks)
 - Certificate of completion of JavaScript Course (GUVI Geek Networks)
 - Certificate of completion of HTML & CSS Course (GUVI Geek Networks)
+
+## 📫 How to reach me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainakdas.dev@gmail.com)
 
 
 <!--
