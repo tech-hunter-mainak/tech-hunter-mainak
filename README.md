@@ -53,6 +53,9 @@ I am currently studying Computer Science and Engineering at National Institute o
 ## 📈 GitHub Stats
 ![Mainak's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-hunter-mainak&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-hunter-mainak&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tech-hunter-mainak&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tech-hunter-mainak&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tech-hunter-mainak&theme=radical)
 
 ## 🏆 Achievements
 - First place in WebBilz 4.0 competition
