@@ -67,7 +67,7 @@ I am currently studying Computer Science and Engineering at National Institute o
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-hunter-mainak&theme=radical" alt="GitHub Streak" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-hunter-mainak&theme=radical" alt="GitHub Streak">
 </div>
 
 <div align="center">
