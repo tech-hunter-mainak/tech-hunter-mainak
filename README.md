@@ -1,8 +1,18 @@
-# Hi there, I'm Mainak Das 👋
+<div align="center">
+  <h1>Hi there, I'm Mainak Das 👋</h1>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mainakdasnits/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tech-hunter-mainak/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://mainak-das-portfolio.netlify.app/)
+<div align="center">
+  <a href="https://linkedin.com/mainakdasnits/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/tech-hunter-mainak/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://github.com/tech-hunter-mainak/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
+  </a>
+</div>
 
 I am currently studying Computer Science and Engineering at National Institute of Technology Silchar. Passionate about Backend Development, Artificial Intelligence, Machine Learning, and Deep Learning, I love to explore and work on innovative projects.
 
@@ -51,11 +61,18 @@ I am currently studying Computer Science and Engineering at National Institute o
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📈 GitHub Stats
-![Mainak's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-hunter-mainak&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-hunter-mainak&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tech-hunter-mainak&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tech-hunter-mainak&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tech-hunter-mainak&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tech-hunter-mainak&show_icons=true&theme=radical" alt="Mainak's GitHub Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-hunter-mainak&layout=compact&theme=radical" alt="Top Languages" height="200">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-hunter-mainak&theme=radical" alt="GitHub Streak" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tech-hunter-mainak&theme=radical" alt="GitHub Trophies">
+</div>
 
 ## 🏆 Achievements
 - First place in WebBilz 4.0 competition
