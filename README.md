@@ -9,7 +9,7 @@
   <a href="https://github.com/tech-hunter-mainak/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://github.com/tech-hunter-mainak/">
+  <a href="https://mainak-das-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
   </a>
 </div>
@@ -17,7 +17,7 @@
 I am currently studying Computer Science and Engineering at National Institute of Technology Silchar. Passionate about Backend Development, Artificial Intelligence, Machine Learning, and Deep Learning, I love to explore and work on innovative projects.
 
 ## 🔭 Current Projects
-- **[LipSync Project](https://github.com/tech-hunter-mainak/lipsync-project)** (June 2024 – Present)  
+- **[LipSync Project](https://lipsync.in)** (June 2024 – Present)  
   A React-based website with Python in the backend that translates educational videos into other languages with proper lip synchronization.  
   *Tech Stack*: React.js, HTML, CSS, Python, Flask, SQL
 
@@ -25,11 +25,11 @@ I am currently studying Computer Science and Engineering at National Institute o
   Real-time updates on my career skills and achievements with voice control navigation.  
   *Tech Stack*: HTML, CSS, JavaScript
 
-- **[Audio and Video to Text Converter](https://github.com/tech-hunter-mainak/audio-video-to-text-converter)** (April 2024)  
+- **[Audio and Video to Text Converter](https://github.com/tech-hunter-mainak/ai-empowered-tools)** (April 2024)  
   Converts audio or video files to text format (speech-to-text) using Assembly AI API.  
   *Tech Stack*: HTML, CSS, Python, Flask, Assembly AI API
 
-- **[Weather App](https://github.com/tech-hunter-mainak/weather-app)** (April 2024)  
+- **[Weather App](https://github.com/tech-hunter-mainak/weather-app-onlyjs)** (April 2024)  
   Provides real-time weather updates with hourly forecasts for any global location using Open Weather API.  
   *Tech Stack*: HTML, CSS, JavaScript, Open Weather API
 
